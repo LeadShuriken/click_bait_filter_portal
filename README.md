@@ -11,10 +11,9 @@ This application is a service/information portal for the Click Bait Filtering Pl
 
 ## Technologies
 
-CLICKBAIT-FILTER-ML uses a number of open source projects:
+CLICKBAIT-FILTER-PORTAL uses a number of open source projects:
 
   * [MOBIRISE] - OFFLINE WEBSITE BUILDER
-
 
 ## Applications Scopes
 
